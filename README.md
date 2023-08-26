@@ -1,4 +1,4 @@
-# Personalized Book Recommendation System Website
+# BookBlend -  Personalized Book Recommendation System Website
 Welcome to the Personalized Book Recommendation System Website! This project aims to provide users with tailored book recommendations, enhancing their reading experience. The website uses collaborative-based filtering with cosine similarity to suggest books that align with a user's preferences.
 
 # Features
