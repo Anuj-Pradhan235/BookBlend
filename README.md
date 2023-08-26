@@ -1,11 +1,11 @@
 Personalized Book Recommendation System Website
 Welcome to the Personalized Book Recommendation System Website! This project aims to provide users with tailored book recommendations, enhancing their reading experience. The website uses collaborative-based filtering with cosine similarity to suggest books that align with a user's preferences.
 
-Features
+#Features
 1.Popularity-based Filtering: Display the top 50 books based on their popularity.
 2.Collaborative-Based Filtering: Recommend books to users based on their interests and preferences.
 3.User-Friendly Interface: The website offers an intuitive and user-friendly design for seamless navigation.
-Installation
+#Installation
 Clone this repository to your local machine using:
 
 bash
@@ -29,13 +29,13 @@ Open your web browser and visit http://localhost:5000 to access the website.
 
 Explore the website to discover top books and receive personalized recommendations.
 
-Configuration
+#Configuration
 The recommendation system utilizes cosine similarity to suggest books based on user preferences.
 You can configure recommendation parameters in the config.py file.
 Contributing
 We welcome contributions from the community! To contribute to this project:
 
-Fork the repository.
+#Fork the repository.
 Create a new branch for your feature: git checkout -b feature-name.
 Make your changes and commit them: git commit -m "Add feature".
 Push your changes to your fork: git push origin feature-name.
